@@ -1,5 +1,6 @@
 Este projeto em PHP demonstra diversas funcionalidades básicas da linguagem, incluindo concatenação de strings, operações aritméticas, e a utilização de loops para gerar uma tabela HTML estilizada. Abaixo segue uma descrição detalhada de cada parte do código.
-// echo 'Teste'."<div>caixa</div>"; // o . concatena as strings
+
+#// echo 'Teste'."<div>caixa</div>"; // o . concatena as strings
 // echo "ola walter";
 
 // $a = 'ana ';
